@@ -1,0 +1,70 @@
+# <editor-fold desc="Birinci tapsirig. 3 reqemin cemini ferqini hasili ve bolunmesini tapan proqram">
+
+# print("\n")
+
+# num1 = int(input("Enter first number: "))
+# num2 = int(input("Enter second number: "))
+# num3 = int(input("Enter third number: "))
+
+# res1 = num1 + num2 + num3
+# res2 = num1 - num2 - num3
+# res3 = num1 * num2 * num3
+# res4 = num1 / num2 / num3
+
+# print("\n")
+# print(f"{num1} + {num2} + {num3} = {res1}")
+# print(f"{num1} - {num2} - {num3} = {res2}")
+# print(f"{num1} * {num2} * {num3} = {res3}")
+# print(f"{num1} / {num2} / {num3} = {res4}")
+
+# </editor-fold>
+
+#print("\n")
+
+# <editor-fold desc="Ayliq budcenizi hesablayan proqram">
+
+#salary = int(input("Enter your monthly salary: "))
+#bank_payment = int(input("Enter your bank payment: "))
+#communal_debt = int(input("Enter your utility bill: "))
+
+#balance_money = salary - bank_payment - communal_debt
+
+#print(f"\nAylig geliriniz : {salary} "
+      #f"\nBank odenisiniz : {bank_payment} "
+      #f"\nKomunal xerciniz : {communal_debt}"
+      #f"\nAyliq budceniz : {balance_money}")
+
+# </editor-fold>
+
+#print("\n")
+
+# <editor-fold desc="Rombun sahesini hesablayan proqram">
+
+#d1 = int(input("Enter the first diagonal: "))
+#d2 = int(input("Enter the second diagonal: "))
+
+#s = (d1*d2)/2
+
+#print(f"\nFirst diagonal : {d1} "
+      #f"\nSecond diagonal : {d2} "
+      #f"\nRhombus area : {s}")
+
+# </editor-fold>
+
+#print("\n")
+
+# <editor-fold desc="Ekrana soz cixarmaq">
+
+#print('"Olmaq\nya yox\nolmaq"')
+
+# </editor-fold>
+
+#print("\n")
+
+# <editor-fold desc="Ekrana soz cixarmaq">
+
+#print('"Olmaq')
+#print('ya yox')
+#print('Olmaq"')
+
+# </editor-fold>
